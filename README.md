@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- [Angel Serrano] (https://github.com/a-ngels)
+- [Brian] (https://github.com/brian105)
+- [] (https://github.com/mam10023)
+- [] (https://github.com/mxa5251)
 
 ## Stakeholders
 
