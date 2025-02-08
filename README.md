@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- [Angel Serrano] (https://github.com/a-ngels)
-- [Brian] (https://github.com/brian105)
-- [] (https://github.com/mam10023)
-- [] (https://github.com/mxa5251)
+- [Angel Serrano](https://github.com/a-ngels)
+- [Brian](https://github.com/brian105)
+- [name3](https://github.com/mam10023)
+- [name4](https://github.com/mxa5251)
 
 ## Stakeholders
 
