@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Angel Serrano](https://github.com/a-ngels)
-- [Brian](https://github.com/brian105)
+- [Brian Tylo](https://github.com/brian105)
 - [Maya Mabry](https://github.com/mam10023)
 - [Imran Ahmed](https://github.com/mxa5251)
 
@@ -14,7 +14,7 @@ A little exercise to get started with the specification phase of the software de
 **NYU Students, Faculty, and Staff**
 - Individuals who eat at campus dining halls.
 - People with busy schedules, including classes, work, and extracurricular activities.
-- Commuter students who need to quickly get food before or between class.
+- Commuter students who need to quickly get food before or between class from NYU dining halls.
 - Those who want to save time by ordering meals in advance.
 - Individuals looking for budget-friendly meal options.
 
@@ -25,7 +25,7 @@ A little exercise to get started with the specification phase of the software de
 "As a commuter student, I don't have much time to wait in dining hall lines between class. I want a quick way to get food when I'm busy."
 
 #### Goals / Needs
-- Order food in advance to avoid long wait times.
+- Order food in advance, including for different days.
 - View menus for different dining halls.
 - Select a pickup time that fits the user's schedule.
 - Check menu prices to find budget-friendly meals.
