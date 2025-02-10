@@ -22,7 +22,7 @@ A little exercise to get started with the specification phase of the software de
 
 #### Interviewee: Michael Smith - NYU Commuter Student
 
-"As a commuter student, I don't have much time to wait in dining hall lines between class. I want a quick way to get food when I'm busy.
+"As a commuter student, I don't have much time to wait in dining hall lines between class. I want a quick way to get food when I'm busy."
 
 #### Goals / Needs
 - Order food in advance to avoid long wait times.
