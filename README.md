@@ -27,8 +27,9 @@ A little exercise to get started with the specification phase of the software de
 #### Goals / Needs
 - Order food in advance to avoid long wait times.
 - View menus for different dining halls.
-- Select a pickup time that fits your schedule
+- Select a pickup time that fits the user's schedule.
 - Check menu prices to find budget-friendly meals.
+- View wait times for dining halls.
 
 #### Problems / Frustrations
 - Long wait times make it difficult to get food between classes.
@@ -38,11 +39,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our mobile app allows NYU students, faculty, and staff to order pre-order food, check real-time dining hall menus, and reduce wait times, creating a faster, more convenient dining experience.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a **user**, I want **to pre-order meals** so that **I can skip long wait times at dining halls**.
+2. As a **user**, I want **to check real-time menus** so that **I don't waste time going to a dining hall that doesn't have what I want**.
+3. As a **user**, I want **to select a pickup time** so that **I can get my food at a convenient time**.
+4. As a **user**, I want **to view meal prices** so that **I can budget my food expenses efficiently**.
+5. As a **user**, I want **to view wait times** so that **I can choose the fastest dining hall**.
+6. As a **user**, I want **to find nearby dining halls** so that **I can choose the nearest one**.
+7. As a **user**, I want **to pay using my NYU ID or card** so that **pickup is quick and easy**.
+8. As a **user**, I want **to see dining hall hours** so that **I can know when they open and close**.
+9. As a **user**, I want **to favorite dining halls** so that **I can quickly access their menus**.
+10. As a **user**, I want **to be able to track all my past orders** so that **I can see my most frequently ordered meals**.
 
 ## Activity Diagrams
 
