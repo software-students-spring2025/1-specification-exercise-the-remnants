@@ -60,4 +60,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Figma Prototype](https://www.figma.com/proto/xdJKwtXxkWX1ICte10Ebky/The-Remnants?page-id=45%3A30&node-id=45-51&p=f&viewport=159%2C422%2C0.86&t=0pmSVpqfKBxPnsdS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=45%3A51)
