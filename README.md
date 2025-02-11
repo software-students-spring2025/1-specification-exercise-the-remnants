@@ -56,7 +56,11 @@ VioletEats is a mobile app that allows NYU students, faculty, and staff to pre-o
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User story: As a user, I want to see dining hall hours so that I can know when they open and close.
+![Dining Hall Diagram](https://github.com/software-students-spring2025/1-specification-exercise-the-remnants/blob/main/Hours_diagram.png)
+User story: As a user, I want to favorite dining halls so that I can quickly access their menus in the future.
+![Favorites Feature](https://github.com/software-students-spring2025/1-specification-exercise-the-remnants/blob/main/Favorites_diagram.png)
+
 
 ## Clickable Prototype
 
