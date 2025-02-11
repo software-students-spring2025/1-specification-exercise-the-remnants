@@ -39,7 +39,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-Our mobile app allows NYU students, faculty, and staff to order pre-order food, check real-time dining hall menus, and reduce wait times, creating a faster, more convenient dining experience.
+VioletEats is a mobile app that allows NYU students, faculty, and staff to pre-order food, check real-time dining hall menus, and reduce wait times, creating a faster, more convenient dining experience.
 
 ## User Requirements
 
