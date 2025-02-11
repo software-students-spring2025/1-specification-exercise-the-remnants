@@ -13,8 +13,8 @@ A little exercise to get started with the specification phase of the software de
 
 **NYU Students, Faculty, and Staff**
 - Individuals who eat at campus dining halls.
-- People with busy schedules, including classes, work, and extracurricular activities.
-- Commuter students who need to quickly get food before or between class from NYU dining halls.
+- People with busy schedules, those who have classes, work, and extracurricular activities.
+- Commuter students who want to quickly get food before or in between class from NYU dining halls.
 - Those who want to save time by ordering meals in advance.
 - Individuals looking for budget-friendly meal options.
 
@@ -39,20 +39,20 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-VioletEats is a mobile app that allows NYU students, faculty, and staff to pre-order food, check real-time dining hall menus, and reduce wait times, creating a faster, more convenient dining experience.
+VioletEats is a mobile app that allows NYU students, faculty, and staff to pre-order food, check real-time dining hall menus, and reduce wait times to create a faster, more convenient dining experience.
 
 ## User Requirements
 
-1. As a **user**, I want **to pre-order meals** so that **I can skip long wait times at dining halls**.
-2. As a **user**, I want **to check real-time menus** so that **I don't waste time going to a dining hall that doesn't have what I want**.
-3. As a **user**, I want **to select a pickup time** so that **I can get my food at a convenient time**.
-4. As a **user**, I want **to view meal prices** so that **I can budget my food expenses efficiently**.
+1. As a **user**, I want **to pre-order my meals** so that **I can avoid long wait times at dining halls**.
+2. As a **user**, I want **to check real-time menus** so that **I don't waste time going to a dining hall that doesn't have the foods I want**.
+3. As a **user**, I want **to select a pickup time** so that **I can get my food at a time that works best for me**.
+4. As a **user**, I want **to view meal prices** so that **I can budget food expenses efficiently**.
 5. As a **user**, I want **to view wait times** so that **I can choose the fastest dining hall**.
 6. As a **user**, I want **to find nearby dining halls** so that **I can choose the nearest one**.
 7. As a **user**, I want **to pay using my NYU ID or card** so that **pickup is quick and easy**.
 8. As a **user**, I want **to see dining hall hours** so that **I can know when they open and close**.
-9. As a **user**, I want **to favorite dining halls** so that **I can quickly access their menus**.
-10. As a **user**, I want **to be able to track all my past orders** so that **I can see my most frequently ordered meals**.
+9. As a **user**, I want **to favorite dining halls** so that **I can quickly access their menus in the future**.
+10. As a **user**, I want **to be able to track my past orders** so that **I can view my most frequently ordered meals**.
 
 ## Activity Diagrams
 
